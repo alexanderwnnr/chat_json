@@ -1,0 +1,28 @@
+{
+  "chat": [
+    {
+      "author": "barracuda",
+      "text": "some text",
+      "time": "00:00",
+      "id": 1
+    },
+    {
+      "author": "frostmourne",
+      "text": "another text",
+      "time": "00:01",
+      "id": 2
+    },
+    {
+      "author": "vasya",
+      "text": "hi",
+      "time": "15:40",
+      "id": 3
+    },
+    {
+      "author": "vasya",
+      "text": "how are you",
+      "time": "15:40",
+      "id": 4
+    }
+  ]
+}
